@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Dataset and model outputs
+runs/
+gun_detection_dataset/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.pt
+*.onnx
+*.tflite
+*.mlmodel
+*.coreml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# YAML config
+*.yaml
+*.yml

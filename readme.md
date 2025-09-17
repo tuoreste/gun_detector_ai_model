@@ -1,6 +1,10 @@
 # YOLOv8 Object Detection Training Script
 
-This project provides a flexible and modular Python script to train YOLOv8 models on custom object detection datasets. It supports training, validation, testing, and exporting models in multiple formats (ONNX, TorchScript, CoreML, TFLite).
+## Introduction
+
+This project aims to develop an advanced AI model for real-time gun detection in images captured from surveillance cameras. The broader vision is to enhance public safety by enabling automated systems to scan images for firearms and promptly alert security personnel, especially during high-profile events or gatherings where public figures are present and the risk of crime is elevated. By leveraging state-of-the-art object detection techniques, this solution seeks to provide reliable, fast, and accurate detection to help prevent incidents and improve response times in critical situations.
+
+This repository provides a flexible and modular Python script to train YOLOv8 models on custom object detection datasets. It supports training, validation, testing, and exporting models in multiple formats (ONNX, TorchScript, CoreML, TFLite).
 
 ## Features
 - Train YOLOv8 models from scratch or fine-tune pretrained weights
